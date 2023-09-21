@@ -1,0 +1,9 @@
+/* Estilos previos al código CSS existente */
+/* ... */
+
+/* Estilos adicionales para las opciones de agrupación */
+#options label[for="cluster"] {
+    margin-top: 10px;
+    font-weight: bold;
+    display: block;
+}
